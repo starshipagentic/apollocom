@@ -1,2 +1,3 @@
 # apollocom
-Placeholder repo for the apollocom project
+
+Placeholder package. The `apollocom` name is reserved for a future project.
